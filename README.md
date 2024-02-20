@@ -4,7 +4,7 @@
 
 This repository contains two approaches for developing a model to understand the content of screenshots.
 
-## Approach 1: Gemini OCR
+## Approach 1: Gemini + OCR
 
 In this approach, we utilize the Gemini 1.0 Pro Vision model along with EasyOCR for content understanding. The process involves:
 
