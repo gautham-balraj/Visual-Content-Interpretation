@@ -22,8 +22,8 @@ The second approach involves using an open-source image captioning model from Hu
 1. Preprocessing the screenshot image.
 2. Using the BLIP model to generate image captions, both conditionally and unconditionally.
 
-### Screenshots
-*Insert screenshot for Approach 2 here*
+### Screenshot
+![Screenshot 2024-02-20 185035](https://github.com/gautham-balraj/Visual-Content-Interpretation/assets/121476362/ab329be9-fd45-400c-ad9d-69dd77bd5a3e)
 
 ## Performance Evaluation
 
@@ -43,6 +43,4 @@ For detailed instructions and examples, refer to the individual scripts or funct
 
 Approach 1 leverages a combination of proprietary and open-source technologies, providing a comprehensive understanding of the screenshot content. Approach 2 relies solely on open-source tools, offering transparency and flexibility.
 
----
 
-*Note: Add screenshots for both approaches.*
