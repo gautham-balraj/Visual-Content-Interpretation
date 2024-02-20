@@ -12,7 +12,8 @@ In this approach, we utilize the Gemini 1.0 Pro Vision model along with EasyOCR 
 2. Utilizing the Gemini language model to generate a natural language understanding of the screenshot content, incorporating the OCR results.
 
 ### Screenshots
-*Insert screenshot for Approach 1 here*
+![Screenshot 2024-02-20 184836](https://github.com/gautham-balraj/Visual-Content-Interpretation/assets/121476362/556964cb-45a8-484b-a8e9-502bd9d93534)
+
 
 ## Approach 2: Salesforce BLIP Image Captioning
 
