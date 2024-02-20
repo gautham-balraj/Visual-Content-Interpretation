@@ -35,7 +35,7 @@ To use these approaches:
 
 1. Ensure all necessary dependencies are installed.
 2. Replace the image path or URL with the actual screenshot.
-3. Run the respective Python script or function for each approach.
+3. Run the respective function for each approach.
 
 For detailed instructions and examples, refer to the individual scripts or functions.
 
