@@ -11,7 +11,7 @@ In this approach, we utilize the Gemini 1.0 Pro Vision model along with EasyOCR 
 1. Performing Optical Character Recognition (OCR) on the screenshot using EasyOCR to extract text.
 2. Utilizing the Gemini language model to generate a natural language understanding of the screenshot content, incorporating the OCR results.
 
-### Screenshots
+### Screenshot
 ![Screenshot 2024-02-20 184836](https://github.com/gautham-balraj/Visual-Content-Interpretation/assets/121476362/556964cb-45a8-484b-a8e9-502bd9d93534)
 
 
